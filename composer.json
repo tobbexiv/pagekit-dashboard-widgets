@@ -1,0 +1,24 @@
+{
+    "name": "tobbe/dashboard-widgets",
+    "module": "tobbe/dashboard-widgets",
+    "version": "1.0.0",
+    "type": "pagekit-extension",
+    "title": "Dashboard widgets",
+    "description": "Provide additional widgets for the dashboard.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobbe",
+            "email": "contact@tobbexiv.de",
+            "homepage": "https://github.com/tobbexiv/pagekit-dashboard-widgets"
+        }
+    ],
+    "extra": {
+        "icon": "icon.png"
+    },
+    "archive": {
+        "exclude": [
+            "node_modules"
+        ]
+    }
+}
