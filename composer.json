@@ -1,7 +1,7 @@
 {
     "name": "tobbe/dashboard-widgets",
     "module": "tobbe/dashboard-widgets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "pagekit-extension",
     "title": "Dashboard widgets",
     "description": "Provide additional widgets for the dashboard.",
