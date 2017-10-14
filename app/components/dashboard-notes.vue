@@ -21,7 +21,7 @@
     <div v-else>
 
         <h3>{{ widget.title }}</h3>
-        <p>{{ widget.note }}</p>
+        <p>{{{ widget.note }}}</p>
 
     </div>
 
@@ -47,7 +47,5 @@
         props: ['widget', 'editing']
 
     }
-    
-    window.Dashboard.components['hello'] = module.exports;
 
 </script>
